@@ -1,16 +1,3 @@
-/*  Student information for assignment:
- *
- *  On my honor, <Milan Dhaduk>, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  Name: Milan Dhaduk
- *  email address: mdhaduk7@gmail.com
- *  UTEID: mpd2292
- *  Section 5 digit ID: 52679
- *  Grader name: Casey
- *  Number of slip days used on this assignment: 1
- */
-
 // add imports as necessary
 import java.util.ArrayList;
 import java.util.Collections;
